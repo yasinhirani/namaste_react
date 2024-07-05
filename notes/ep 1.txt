@@ -1,0 +1,13 @@
+React is a javascript library and can be imported to any new or existing project and can work in a small portion of app.
+
+1. What is CDN?
+
+2. What is crossorigin?
+
+3. React.CreateElement() - Is an object with all the properties for the html element and then this object gets converted to html element that browser understands.
+
+4. ReactDOM.createRoot()
+   Root is the place where all the react code will run
+
+5. root.render()
+   Used to render the elements in the root. Replaces all the element in the root element.
